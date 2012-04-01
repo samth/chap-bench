@@ -1,2 +1,2 @@
-make sure 'raco', 'racket', and 'js' (the Spidermonkey shell) are in your path.
+make sure 'raco' and 'racket' are in your path, and 'shell' (the v8 shell) and 'js' (the Spidermonkey shell) are in this directory.
 then run 'make'.

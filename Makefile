@@ -1,5 +1,5 @@
 run:
-	raco make -v *rkt
+	@raco make -v *rkt > /dev/null
 	@echo ">>> Running Racket"
 	racket proc-bm.rkt
 	@echo ""
